@@ -1,27 +1,15 @@
 # Environment Variables
 .env
 .env.local
-.env.development
-.env.test
-.env.production
-.env*.local
 
 # OS Files
 .DS_Store
-Thumbs.db
 
 # IDE
 .vscode/
-.idea/
-*.swp
-*.swo
-*~
 
 # Dependencies
 node_modules/
-vendor/
 
 # Build outputs
 dist/
-build/
-*.log
